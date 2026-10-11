@@ -1,1 +1,1 @@
-# strean-state-sync
+# stream-state-sync
